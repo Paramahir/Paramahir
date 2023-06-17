@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Infant Brain MRI Analysis**
 
-- 🌱 I’m currently learning **Automated machine learning (AutoML), Deferated Learning**
+- 🌱 I’m currently learning **Automated machine learning (AutoML) and Federated Learning**
 
 - 👯 I’m looking to collaborate on [Knowledge Based Visual Question Answering](https://github.com/Paramahir/KnowVQA)
 
