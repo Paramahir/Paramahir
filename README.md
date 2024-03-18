@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Param Ahir</h1>
-<h3 align="center">A Computer Vision Researcher From India</h3>
+<h3 align="center">A Computer Vision Researcher</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paramahir" alt="paramahir" /></a> </p>
 
